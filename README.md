@@ -85,7 +85,7 @@ O assistente explicou as diferenças entre as métricas e apresentou exemplos re
 
 **Fonte identificada:** StatQuest — ROC and AUC, Clearly Explained!, entre as fontes citadas.
 
-![Teste de métricas](screenshots/precision-recall.png)
+![Teste de métricas](screenshots/precision-recall.jpg)
 
 ### Teste 2 — Data Leakage
 
@@ -101,7 +101,7 @@ Após uma primeira avaliação, foi adicionada uma fonte mais específica para m
 
 **Fonte validada:** Scikit-learn — Common Pitfalls and Recommended Practices, seção 12.2, Data Leakage.
 
-![Teste de Data Leakage](screenshots/data-leakage.png)
+![Teste de Data Leakage](screenshots/data-leakage.jpg)
 
 ### Teste 3 — Interpretabilidade
 
@@ -115,7 +115,7 @@ O assistente diferenciou explicações globais e locais e apresentou técnicas u
 
 **Fonte identificada:** Interpretable Machine Learning — Christoph Molnar.
 
-![Teste de interpretabilidade](screenshots/interpretability.png)
+![Teste de interpretabilidade](screenshots/interpretability.jpg)
 
 ### Síntese dos testes
 
@@ -142,7 +142,7 @@ Mapa mental organizado em seis áreas:
 5. Interpretabilidade
 6. Boas práticas de modelagem
 
-![Mapa mental](assets/data-science-mindmap.png)
+![Mapa mental](assets/mapa_mental.jpg)
 
 ### Apresentação de estudos
 
