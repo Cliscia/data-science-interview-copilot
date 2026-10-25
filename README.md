@@ -152,7 +152,7 @@ Material de revisão voltado à preparação para entrevistas técnicas.
 
 ## 🔗 Acessar o NotebookLM
 
-**[Abrir Data Science Interview Copilot](INSERIR_LINK_PUBLICO_DO_NOTEBOOK)**
+**[Abrir Data Science Interview Copilot](https://notebook.google.com/notebook/f4b36fd4-c307-4e83-8137-81e73fa30c26)**
 
 O link permite consultar o notebook compartilhado, conforme as permissões configuradas.
 
